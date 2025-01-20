@@ -44,15 +44,15 @@ and success criteria  of our project.
 #### Initial Dashboard
 
 ---
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/Inital_report.png" width="550" class="center">
+![Screenshot 2025-01-20 092319](https://github.com/user-attachments/assets/d86976c4-abc7-4deb-b732-c173a06bdc7a)
+
+
 
 #### Updated Dashboard
 
 ---
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/Final_report.png" width="550" class="center">
+![Screenshot 2025-01-20 092619](https://github.com/user-attachments/assets/8863029d-79db-4607-a928-c163e4e44d9c)
 
-#### Interactive dashboard
 
----
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/GIF.gif" width="600" class="center">
+
 
