@@ -48,10 +48,7 @@ and success criteria  of our project.
 
 
 
-#### Updated Dashboard
-
----
-![Screenshot 2025-01-20 092619](https://github.com/user-attachments/assets/8863029d-79db-4607-a928-c163e4e44d9c)
+![Screenshot 2025-01-20 092242](https://github.com/user-attachments/assets/8e4e0d87-1c16-4e48-bf9d-99c65b871463)
 
 
 
