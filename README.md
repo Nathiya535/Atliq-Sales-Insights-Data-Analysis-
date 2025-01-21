@@ -44,7 +44,8 @@ and success criteria  of our project.
 #### Initial Dashboard
 
 ---
-![Screenshot 2025-01-20 092319](https://github.com/user-attachments/assets/d86976c4-abc7-4deb-b732-c173a06bdc7a)
+![Screenshot 2025-01-20 205739](https://github.com/user-attachments/assets/7f4be01b-4f0f-4733-ad8e-d2989adf4051)
+
 
 
 
