@@ -52,5 +52,9 @@ and success criteria  of our project.
 ![Screenshot 2025-01-20 092242](https://github.com/user-attachments/assets/8e4e0d87-1c16-4e48-bf9d-99c65b871463)
 
 
+####  Updated Dashboard
+![Screenshot 2025-02-03 194259](https://github.com/user-attachments/assets/5ef42ab0-87dd-4e1c-97dd-9f15bf945146)
+
+
 
 
